@@ -1,0 +1,14 @@
+/Users/gishkori/Projects/DotNet Development/LeetCode Problems/Problem-121/bin/Debug/net8.0/Problem-121
+/Users/gishkori/Projects/DotNet Development/LeetCode Problems/Problem-121/bin/Debug/net8.0/Problem-121.deps.json
+/Users/gishkori/Projects/DotNet Development/LeetCode Problems/Problem-121/bin/Debug/net8.0/Problem-121.runtimeconfig.json
+/Users/gishkori/Projects/DotNet Development/LeetCode Problems/Problem-121/bin/Debug/net8.0/Problem-121.dll
+/Users/gishkori/Projects/DotNet Development/LeetCode Problems/Problem-121/bin/Debug/net8.0/Problem-121.pdb
+/Users/gishkori/Projects/DotNet Development/LeetCode Problems/Problem-121/obj/Debug/net8.0/Problem-121.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gishkori/Projects/DotNet Development/LeetCode Problems/Problem-121/obj/Debug/net8.0/Problem-121.AssemblyInfoInputs.cache
+/Users/gishkori/Projects/DotNet Development/LeetCode Problems/Problem-121/obj/Debug/net8.0/Problem-121.AssemblyInfo.cs
+/Users/gishkori/Projects/DotNet Development/LeetCode Problems/Problem-121/obj/Debug/net8.0/Problem-121.csproj.CoreCompileInputs.cache
+/Users/gishkori/Projects/DotNet Development/LeetCode Problems/Problem-121/obj/Debug/net8.0/Problem-121.dll
+/Users/gishkori/Projects/DotNet Development/LeetCode Problems/Problem-121/obj/Debug/net8.0/refint/Problem-121.dll
+/Users/gishkori/Projects/DotNet Development/LeetCode Problems/Problem-121/obj/Debug/net8.0/Problem-121.pdb
+/Users/gishkori/Projects/DotNet Development/LeetCode Problems/Problem-121/obj/Debug/net8.0/Problem-121.genruntimeconfig.cache
+/Users/gishkori/Projects/DotNet Development/LeetCode Problems/Problem-121/obj/Debug/net8.0/ref/Problem-121.dll
