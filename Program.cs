@@ -1,9 +1,8 @@
-﻿using System.Security.Cryptography;
-
-public class Solution
+﻿public class Solution
 {
     public int MaxProfit(int[] prices)
     {
+
         return 0;
     }
 }
