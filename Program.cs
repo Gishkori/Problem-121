@@ -11,8 +11,6 @@
                 buyPrice = prices[i];
                 index = i;
             }
-
-
         }
 
         int sellPrice = 0;
